@@ -60,7 +60,7 @@ a{
     font-size: 12px;
 }
 
-#p-article{
+.p-article{
     margin: 20px 0;
 }
 
@@ -90,4 +90,28 @@ td{
     background-color: white;
 }
 
+h3{
+    margin: 10px 0;
+}
 
+/*footer img*/
+
+.monitor{
+    width: 200px;
+    height: 150px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.graph{
+    width: 200px;
+    height: 150px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
