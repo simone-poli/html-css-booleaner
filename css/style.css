@@ -3,3 +3,28 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: #4D9EFC;
+    background-image: url(../img/pattern.png);
+    background-size: 25%;
+    line-height: 100px;
+
+}
+
+#logo{
+    vertical-align: middle;
+    height: 50px;
+}
+
+.conteiner{
+    width: 75%;
+    margin: 0 auto;
+}
+
+h1{
+    padding-top: 15px;
+    font-size: 40px;
+}
