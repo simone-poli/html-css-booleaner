@@ -4,6 +4,16 @@
     box-sizing: border-box;
 }
 
+/*utilities*/
+
+.text-gray{
+    color:#828282;
+}
+
+.text-small{
+    font-size: 12px;
+}
+
 header{
     height: 100px;
     width: 100%;
@@ -17,14 +27,34 @@ header{
 #logo{
     vertical-align: middle;
     height: 50px;
+    padding-left: 220px;
 }
 
 .conteiner{
-    width: 75%;
+    width: 70%;
     margin: 0 auto;
 }
 
 h1{
     padding-top: 15px;
+    padding-bottom: 5px;
     font-size: 40px;
+}
+
+a{
+    color: #27ABE6;
+    text-decoration: none;
+}
+
+#p-author{
+    font-size: 20px;
+    font-weight: 550;
+}
+
+#p-photo{
+    font-size: 12px;
+}
+
+figure{
+    padding-top:20px;
 }
